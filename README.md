@@ -1,6 +1,6 @@
 # Patient Satisfaction Data Story (2024)
 
-**Analyst:** 22f3000033@ds.study.iitm.ac.in  
+**Analyst:** 22f3000033@ds.study.iitm.ac.in   
 **Tooling:** Jules (ChatGPT Codex), Python, Matplotlib  
 
 ---
